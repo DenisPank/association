@@ -368,6 +368,9 @@ button {
 }
 .news-meet {
   padding: 65px 0;
+  background-image: url("../images/bg-task.png");
+  background-position: center;
+  background-size: cover;
 }
 /* info  */
 .info {
